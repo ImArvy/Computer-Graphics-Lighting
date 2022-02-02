@@ -1,7 +1,6 @@
 /*
 Ryan Vales
 11/15/21
-S00339723
 CSCI 4550 : Computer Graphics
 Homework 5
 */
